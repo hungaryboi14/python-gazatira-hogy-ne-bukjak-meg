@@ -1,1 +1,1 @@
-# python-gazatira-hogy-ne-bukjak-meg
+# python-agazatira-hogy-ne-bukjak-meg
