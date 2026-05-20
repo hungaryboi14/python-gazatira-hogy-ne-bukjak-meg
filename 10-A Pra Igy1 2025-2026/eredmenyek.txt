@@ -1,0 +1,7 @@
+Munkások, akik 500 000 Ft felett keresnek
+=========================================
+Név: Nagy Béla, Életkor: 52, Fizetés: 520000 Ft
+Név: Tóth Anna, Életkor: 38, Fizetés: 600000 Ft
+Név: Varga Mária, Életkor: 47, Fizetés: 510000 Ft
+
+ Összesen: 3 fő

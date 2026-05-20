@@ -1,0 +1,6 @@
+Név;Életkor;Fizetés
+Kiss József;45;450000
+Nagy Béla;52;520000
+Tóth Anna;38;600000
+Szabó Péter;60;490000
+Varga Mária;47;510000

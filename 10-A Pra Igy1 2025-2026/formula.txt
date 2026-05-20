@@ -1,0 +1,40 @@
+név;születési_dátum;nemzetiség
+Lewis Hamilton;1985.01.07;brit
+Nick Heidfeld;1977.05.10;német
+Nico Rosberg;1985.06.27;német
+Fernando Alonso;1981.07.29;spanyol
+Heikki Kovalainen;1981.10.19;finn
+Kazuki Nakajima;1985.01.11;japán
+Sébastien Bourdais;1979.02.28;francia
+Kimi Räikkönen;1979.10.17;finn
+Robert Kubica;1984.12.07;lengyel
+Timo Glock;1982.03.18;német
+Takuma Sato;1977.01.28;japán
+Nelson Piquet Jr;1985.07.25;brazil
+Felipe Massa;1981.04.25;brazil
+David Coulthard;1971.03.27;brit
+Jarno Trulli;1974.07.13;olasz
+Adrian Sutil;1983.01.11;német
+Mark Webber;1976.08.27;ausztrál
+Jenson Button;1980.01.19;brit
+Anthony Davidson;1979.04.18;brit
+Sebastian Vettel;1987.07.03;német
+Giancarlo Fisichella;1973.01.14;olasz
+Rubens Barrichello;1972.05.23;brazil
+Ralf Schumacher;1975.06.30;német
+Vitantonio Liuzzi;1980.08.06;olasz
+Alexander Wurz;1974.02.15;osztrák
+Scott Speed;1983.01.24;amerikai
+Christijan Albers;1979.04.16;holland
+Markus Winkelhock;1980.06.13;német
+Sakon Yamamoto;1982.07.09;japán
+Michael Schumacher;1969.01.03;német
+Juan Pablo Montoya;1975.09.20;kolumbiai
+Zsolt Baumgartner;1981.01.01;magyar
+Marc Gené;1974.03.29;spanyol
+Heinz-Harald Frentzen;1967.05.18;német
+Jos Verstappen;1972.03.04;holland
+Justin Wilson;1978.07.31;brit
+Ralph Firman;1975.05.20;ír
+Nicolas Kiesa;1978.03.03;dán
+Luciano Burti;1975.03.05;brazil
