@@ -1,0 +1,1 @@
+# python-gazatira-hogy-ne-bukjak-meg
